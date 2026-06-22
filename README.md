@@ -1,4 +1,16 @@
-## Hi there 👋
+# Foad Ghasemi
+
+Welcome to my research profile.
+
+Focus:
+Machine Learning in Healthcare
+
+Main Projects:
+- CAD Feature Selection
+- ROC-based Decision Systems
+
+Contact:
+foadghasemi1372@gmail.com
 
 <!--
 **Foad-Ghasemi/Foad-Ghasemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
